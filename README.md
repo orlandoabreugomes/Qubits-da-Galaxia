@@ -1,7 +1,5 @@
 ![Imagem](https://github.com/orlandoabreugomes/Qubits-da-Galaxia/blob/main/assets/Default_A_programmer_using_a_quantic_computer_3.jpg)
 
-Aqui está o texto com algumas correções de ortografia e melhorias de clareza:
-
 # QUBITS DA GALÁXIA
 
 ## 📒 Descrição
